@@ -48,7 +48,7 @@
 
 ## Manual
 
-Read the manual in the [Github Wiki Pages]()
+Read the manual in the [Github Wiki Pages](https://github.com/tiagolr/rippler/wiki)
 
 ## About
 
@@ -62,7 +62,7 @@ Although this synth was meant to be a commercial product, I can't be bothered wi
 
 ### Why not open source
 
-There is little to gain from open sourcing the code, the main reason I prefer to keep it closed source is out of respect for *Applied Acoustics Systems* and their flagship Chromaphone, it took me a lot of time to figure out bi-directional coupling of resonators and would never even try if it was not for the reference synth.
+There is little to gain from open sourcing the code, the main reason I prefer to keep it closed source is out of respect for *Applied Acoustics Systems* and their flagship Chromaphone, it took me a lot of time to figure out bi-directional coupling of resonators and would never even try if it was not for their reference synth.
 
 
 ## Tips
